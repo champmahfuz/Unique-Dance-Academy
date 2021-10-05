@@ -18,10 +18,10 @@ const Services = () => {
                 course.map(courses => <Card className="mx-3">
                     <Card.Img variant="top" src={courses.image} />
                     <Card.Body>
-                        <Card.Title>{courses.name}</Card.Title>
-                        <h3>Course Price:{courses.courseFee}</h3>
-                        <h4>Course Duration: {courses.duration}</h4>
-                        <h4>Course Duration: {courses.courseTeacher}</h4>
+                        <Card.Title>Course Name: {courses.name}</Card.Title>
+                        <h5>Course Price: {courses.courseFee}</h5>
+                        <h5>Course Duration: {courses.duration}</h5>
+                        <h5>Course Teacher: {courses.courseTeacher}</h5>
                         <Button variant="primary" href="/services">Learn More</Button>
                     </Card.Body>
 

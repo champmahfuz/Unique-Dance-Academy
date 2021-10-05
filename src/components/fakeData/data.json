@@ -82,12 +82,5 @@
         "duration": "3 month",
         "courseFee": 25000,
         "image": "https://www.udanceacademy.net/wp-content/uploads/2017/08/Modern-dance-768x517.png"
-    },
-    {
-        "name": "Hip Hop",
-        "courseTeacher": "Danush Choula",
-        "duration": "5 month",
-        "courseFee": 15000,
-        "image": "https://images.unsplash.com/photo-1537365587684-f490102e1225?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8ZGFuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
 ]

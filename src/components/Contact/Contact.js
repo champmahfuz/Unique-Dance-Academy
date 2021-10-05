@@ -5,15 +5,15 @@ const Contact = () => {
         <Container className="m-4 p-4 d-flex d-flex justify-content-center align-items-center">
             <Form>
                 <Row className="mb-3">
-                    <Form.Group as={Col} controlId="formGridEmail">
+                    <Form.Group as={Col} controlId="formGridName">
                         <Form.Label>Name</Form.Label>
-                        <Form.Control type="text" placeholder="Enter email" />
+                        <Form.Control type="text" placeholder="Enter your name" />
                     </Form.Group>
                 </Row>
 
                 <Form.Group className="mb-3" controlId="formGridAddress1">
                     <Form.Label>Address</Form.Label>
-                    <Form.Control placeholder="1234 Main St" />
+                    <Form.Control placeholder="Enter your address" />
                 </Form.Group>
 
                 <Row className="mb-3">

@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div className="footer">
-            <p>all right reserved champ mahfuz</p>
+            <p>© All right reserved Unique Dance Academy</p>
         </div>
     );
 };

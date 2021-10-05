@@ -7,13 +7,6 @@
         "image": "https://www.udanceacademy.net/wp-content/uploads/2017/08/Dhamail.jpg"
     },
     {
-        "name": " Baul dance",
-        "courseTeacher": "Sree Susmita Pal",
-        "duration": "8 month",
-        "courseFee": 400000,
-        "image": "https://www.udanceacademy.net/wp-content/uploads/2017/08/Baul-Dance.jpg"
-    },
-    {
         "name": "Dhali dance",
         "courseTeacher": "Priya Rani Roy",
         "duration": "7 month",
@@ -84,7 +77,7 @@
         "image": "https://www.udanceacademy.net/wp-content/uploads/2017/08/Modern-dance-768x517.png"
     },
     {
-        "name": "Hip Hop",
+        "name": "Hip Hop dance",
         "courseTeacher": "Danush Choula",
         "duration": "5 month",
         "courseFee": 15000,
